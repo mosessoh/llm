@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "llm"
+  site-url: "https://mosessoh.github.io/llm"
+  description: "experiments with llms"
+  repo-branch: main
+  repo-url: "https://github.com/mosessoh/llm"
